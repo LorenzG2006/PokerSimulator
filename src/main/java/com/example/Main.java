@@ -9,11 +9,11 @@ public class Main {
     private int deckIndex = 0; // Zum Ziehen der nächsten Karte im Deck
 
     public Main() {
-        // deck = createDeck(); // Deck erstellen
-        // shuffleDeck(deck); // Deck mischen
-        // playGame(); // Spiel starten
+        deck = createDeck(); // Deck erstellen
+        shuffleDeck(deck); // Deck mischen
+        playGame(); // Spiel starten
 
-        poker();
+        // poker();
     }
 
     private void poker() {
