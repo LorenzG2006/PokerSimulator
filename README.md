@@ -1,2 +1,1 @@
-# Java - Template
-Default Java Template
+# Poker Simulator
